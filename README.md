@@ -1,9 +1,6 @@
-## Hi there 👋
 
-<!--
-**riyazbiju/riyazbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Riya Biju 👋
+## Hi, I'm Riya Biju 👋
 
 Welcome to my GitHub! I'm currently pursuing an M.Sc. in Artificial Intelligence at Technische Hochschule Würzburg-Schweinfurt, Germany. My work bridges advanced AI research with impactful real-world solutions, especially in accessibility, healthcare, and education.
 
@@ -62,8 +59,8 @@ Welcome to my GitHub! I'm currently pursuing an M.Sc. in Artificial Intelligence
 
 ## 📫 How to reach me
 
-- **Email:** bijuriya18@gmail.com
-- **LinkedIn:** [riyabiju](https://www.linkedin.com/in/riyabiju)
+- Email: bijuriya18@gmail.com
+- LinkedIn:** [riyabiju](https://www.linkedin.com/in/riyabiju)
 
 ---
 
