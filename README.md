@@ -8,8 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=640&lines=I+build+AI+agents+people+actually+use;Multi-agent+GraphRAG+on+real+enterprise+data;Local+LLMs+that+answer+in+under+a+second;Turning+messy+processes+into+working+tools)](https://github.com/riyazbiju)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riyabiju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyabiju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-riya--biju.dev-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riya-biju.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--biju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-biju)
+[![Portfolio](https://img.shields.io/badge/Portfolio-riyazbiju.github.io-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riyazbiju.github.io)
 [![Email](https://img.shields.io/badge/Email-bijuriya18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com)
 
 ![Status](https://img.shields.io/badge/Available-Dec%202026-2EA44F?style=flat-square)
@@ -118,12 +118,12 @@ flowchart LR
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyazbiju&show_icons=true&theme=radical&hide_border=true" alt="Riya's GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazbiju&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+[![Followers](https://img.shields.io/github/followers/riyazbiju?style=for-the-badge&logo=github&label=Followers&color=0B3D91)](https://github.com/riyazbiju?tab=followers)
+[![Repositories](https://img.shields.io/badge/All%20repositories-view-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyazbiju?tab=repositories)
 
 </div>
 
@@ -135,7 +135,7 @@ flowchart LR
 - **Happy to collaborate on:** agent tooling, knowledge graphs, and AI for healthcare and accessibility
 - **Languages:** English (C1) · German (B1) · Malayalam · Tamil · Hindi
 
-📫 **[Connect on LinkedIn](https://www.linkedin.com/in/riyabiju)** or email **bijuriya18@gmail.com**
+📫 **[Connect on LinkedIn](https://www.linkedin.com/in/riya-biju)** or email **bijuriya18@gmail.com**
 
 > 🤖🤝👤 Still deciding whether to trust AI or humans, so I build AI that shows its work.
 
