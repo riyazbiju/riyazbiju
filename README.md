@@ -235,8 +235,10 @@ English (C1) · German (B1) · Malayalam · Tamil · Hindi
 
 <div align="center">
 
-[![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazbiju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/riyazbiju)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazbiju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/riyazbiju?tab=repositories)
+[![Contribution graph](https://ghchart.rshah.org/1E90FF/riyazbiju)](https://github.com/riyazbiju)
+
+[![Followers](https://img.shields.io/github/followers/riyazbiju?style=for-the-badge&logo=github&label=Followers&color=0B3D91)](https://github.com/riyazbiju?tab=followers)
+[![Repositories](https://img.shields.io/badge/All%20repositories-view-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyazbiju?tab=repositories)
 
 </div>
 
