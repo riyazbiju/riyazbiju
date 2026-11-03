@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Riya Biju, Agentic AI and ML Engineer, Munich"/>
+<img src="banner.svg" width="100%" alt="Riya Biju, Agentic AI and ML Engineer, Munich"/>
 
 
 ![Status](https://img.shields.io/badge/Available-Dec%202026-2EA44F?style=flat-square)
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<a href="assets/intro.mp4"><img src="assets/intro.gif" width="720" alt="Animated intro: who I am, what I build, results, flagship projects CAIRA and SKYBRIEF"/></a>
+<a href="intro.mp4"><img src="intro.gif" width="720" alt="Animated intro: who I am, what I build, results, flagship projects CAIRA and SKYBRIEF"/></a>
 
 <sub>Click the video to open the full-quality MP4.</sub>
 
