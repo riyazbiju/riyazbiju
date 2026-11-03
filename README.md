@@ -1,89 +1,135 @@
 <!-- Profile README for github.com/riyazbiju/riyazbiju
      TODO before publishing: replace every "REPO_LINK" with the real repo URL. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:1E90FF&height=200&section=header&text=Riya%20Biju&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agents%20%C2%B7%20GraphRAG%20%C2%B7%20Knowledge%20Graphs&descSize=18&descAlignY=58" width="100%" alt="Riya Biju banner"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=640&lines=I+build+AI+agents+people+actually+use;Multi-agent+GraphRAG+on+real+enterprise+data;Local+LLMs+that+answer+in+under+a+second;Turning+messy+processes+into+working+tools)](https://riyazbiju.github.io)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D91,100:1E90FF&height=140&section=header&text=Riya%20Biju&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Agentic%20AI%20%26%20ML%20Engineer%20%C2%B7%20Munich&descSize=17&descAlignY=72" width="100%" alt="Riya Biju banner"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-riyazbiju.github.io-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riyazbiju.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--biju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-biju)
-[![Email](https://img.shields.io/badge/Email-bijuriya18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=1E90FF&center=true&vCenter=true&width=640&lines=I+build+AI+agents+people+actually+use;Multi-agent+GraphRAG+on+real+enterprise+data;Local+LLMs+that+answer+in+under+a+second;Turning+messy+processes+into+working+tools)](https://riyazbiju.github.io)
 
 ![Status](https://img.shields.io/badge/Available-Dec%202026-2EA44F?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open%20to-Full--time%20AI%20Engineer%20roles-1E90FF?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Germany%20%C2%B7%20Open%20to%20Europe-lightgrey?style=flat-square)
 
-**[⚡ 30-second summary](#-30-second-summary)** · **[📊 Numbers](#-by-the-numbers)** · **[🚀 Projects](#-featured-projects)** · **[🛠️ Stack](#%EF%B8%8F-tech-stack)** · **[💬 Contact](#-lets-talk)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-riyazbiju.github.io-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riyazbiju.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--biju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-biju)
+[![Email](https://img.shields.io/badge/Email-bijuriya18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Riya
+## 🧭 Quick read
 
-I'm an AI Engineer. I build agents and LLM workflows that solve real problems for real teams, then keep improving them after launch.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> 👇 **Click the arrows below to open sections.** Everything here expands.
+### 📍 Now
+Building AI at **BMW Group, Munich**. Multi-agent systems on a Neo4j knowledge graph for quality investigations. My Master Thesis is there too, on knowledge graphs and link prediction.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ I do
+Agents, GraphRAG, local LLMs and the full stack around them: data pipelines, APIs and the interface people actually use.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Looking for
+Full-time **AI Engineer** roles in Germany and across Europe. Available from **Dec 2026**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ 30-second summary
+## 🛤️ My path
 
-<details open>
-<summary><b>Pick the path that fits you</b></summary>
-
-<br>
-
-| If you are... | Start here |
-|:--|:--|
-| 🧑‍💼 **A recruiter** | Open **By the numbers** and **Experience at a glance** below |
-| 🧑‍💻 **An engineer** | Open the **CAIRA** and **SKYBRIEF** diagrams in Featured projects |
-| 🤝 **A collaborator** | Jump to **Let's talk** and tell me what you're building |
-
-</details>
+```mermaid
+flowchart LR
+    A["2023<br/>ML Intern<br/>Acmegrade / IIT Mumbai"] --> B["2024<br/>AI Associate<br/>Angloverse"]
+    B --> C["2025<br/>Student Assistant<br/>Center for AI & Robotics"]
+    C --> D["2026<br/>AI Engineer<br/>BMW Group"]
+```
 
 <details>
-<summary><b>🏭 Experience at a glance</b></summary>
+<summary><b>What I did at each step</b></summary>
 
 <br>
 
-- **BMW Group, Munich.** Built a multi-agent system on a Neo4j knowledge graph for quality investigations. Now working on my Master Thesis there, on knowledge graphs and link prediction.
-- **THWS, Würzburg.** Built CAIRA, a local RAG assistant that answers in German and English, by voice or text.
-- **Master's project.** Led a team of three to build SKYBRIEF, a weather briefing tool for pilots.
-
-</details>
-
----
-
-## 📊 By the numbers
-
-<details open>
-<summary><b>Results from my projects (click to collapse)</b></summary>
-
-<br>
-
-| | |
+| Role | What I did |
 |:--|:--|
-| **1.5B → 1.6M** | Records narrowed down for real-time use in the BMW pipeline |
-| **~1 day → minutes** | Time to assign a root cause after the multi-agent system went live |
-| **−60%** | End-to-end response time on CAIRA after tuning retrieval and chunking |
-| **>50%** | Lower prediction error for SKYBRIEF compared to two standard forecasting methods |
-| **3× smaller** | Edge AI model after pruning, with accuracy up from 94.6% to 96.7% |
+| **BMW Group** · 2026 → now | Built a multi-agent system on a Neo4j knowledge graph that finds root causes for quality issues |
+| **Center for AI & Robotics** · 2025–26 | Built CAIRA, a local RAG assistant that answers in German and English |
+| **Angloverse** · 2024–25 | Built the NLP pipeline behind an IELTS training platform, and grew international enrollment by 75% |
+| **Acmegrade / IIT Mumbai** · 2023–24 | Built ML models and Power BI dashboards |
 
 </details>
 
 ---
 
-## 🚀 Featured projects
+## 📊 Proof, in numbers
 
-<details open>
-<summary><b>🎙️ CAIRA: a local voice and text assistant for university students</b></summary>
+<table>
+<tr>
+<td align="center" width="20%"><h3>1.5B → 1.6M</h3><sub>records narrowed for real-time use at BMW</sub></td>
+<td align="center" width="20%"><h3>~1 day → minutes</h3><sub>to assign a root cause</sub></td>
+<td align="center" width="20%"><h3>−60%</h3><sub>CAIRA response time</sub></td>
+<td align="center" width="20%"><h3>&gt;50%</h3><sub>lower SKYBRIEF prediction error</sub></td>
+<td align="center" width="20%"><h3>3× smaller</h3><sub>edge model, accuracy 94.6% → 96.7%</sub></td>
+</tr>
+</table>
+
+---
+
+## 🚀 Flagship projects, side by side
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ CAIRA
+**A local voice and text assistant for university students**
+
+Runs fully on local NVIDIA servers. Answers in German and English over 70+ documents.
+
+• Sub-second retrieval, 60% faster responses<br>
+• Query expansion for vague, multi-part questions<br>
+• Session memory across a whole conversation
+
+`FastAPI` `Gradio` `FAISS` `multilingual-e5-small` `Qwen2.5`
+
+🔗 [Repo](REPO_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ SKYBRIEF
+**Weather briefings for pilots**
+
+A Latent ODE model that forecasts temperature, wind and visibility across location, altitude and time. I led a team of three and built the full stack.
+
+• Error cut by more than half against two standard methods<br>
+• 60–67% better on a real flight route<br>
+• 231 airports in Canada, data up to 38,000 ft
+
+`PyTorch` `Latent ODE` `Python` `React`
+
+🔗 [Repo](REPO_LINK)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 See how each one works</b></summary>
 
 <br>
 
-Runs fully on local NVIDIA servers, answers in German and English, and works over 70+ documents. Built with FastAPI, Gradio, FAISS, multilingual-e5-small embeddings, and Qwen2.5 (1.5B to 7B).
+**CAIRA**
 
 ```mermaid
 flowchart LR
@@ -93,20 +139,7 @@ flowchart LR
     D --> E["Answer"]
 ```
 
-- Reached sub-second retrieval and cut response time by 60%.
-- Handled vague, multi-part questions with automatic query expansion.
-- Kept session state across a whole conversation.
-
-🔗 [Repo](REPO_LINK)
-
-</details>
-
-<details open>
-<summary><b>✈️ SKYBRIEF: weather briefings for pilots</b></summary>
-
-<br>
-
-A Latent ODE model that predicts temperature, wind, and visibility continuously across location, altitude, and time. Trained on data from 231 airports across Canada plus atmospheric data up to 38,000 ft. I led the team and built the full stack, from the Python model to the React app pilots use.
+**SKYBRIEF**
 
 ```mermaid
 flowchart LR
@@ -116,73 +149,30 @@ flowchart LR
     D --> E["React briefing app<br/>for pilots"]
 ```
 
-- Cut prediction error by more than half against two standard methods.
-- Beat the older methods by 60–67% on a real flight route.
-
-🔗 [Repo](REPO_LINK)
-
 </details>
 
-### 🧩 More projects
+---
+
+## 🧩 More things I've built
 
 <details>
-<summary><b>⚡ Edge AI PPE Detection</b> · <code>PyTorch</code> <code>MobileNet</code> <code>Raspberry Pi</code></summary>
+<summary><b>Show all 5 projects</b></summary>
 
 <br>
 
-Pruned a MobileNet by ~69% (8.63 MB → 2.77 MB). Accuracy went up from 94.6% to 96.7%, and speed on a Raspberry Pi stayed the same.
-
-🔗 [Repo](REPO_LINK)
-
-</details>
-
-<details>
-<summary><b>🩻 Explainable Pneumonia Detection</b> · <code>PyTorch</code> <code>Grad-CAM</code> <code>LIME</code></summary>
-
-<br>
-
-ResNet-18 on chest X-rays, with Grad-CAM and LIME to show where the model looks.
-
-🔗 [Repo](REPO_LINK)
-
-</details>
-
-<details>
-<summary><b>🤟 SignEase</b> · <code>CNN-LSTM</code> <code>MediaPipe</code></summary>
-
-<br>
-
-Real-time sign language translation for inclusive meetings. Published in IJRAR (2024).
-
-🔗 [Repo](REPO_LINK)
-
-</details>
-
-<details>
-<summary><b>🧑‍🎨 β-VAE on CelebA</b> · <code>PyTorch</code> <code>VAE</code></summary>
-
-<br>
-
-Face generation model that separates traits like head pose into adjustable controls.
-
-🔗 [Repo](REPO_LINK)
-
-</details>
-
-<details>
-<summary><b>🌿 Prakrithi-Identifier</b> · <code>scikit-learn</code> <code>Computer Vision</code></summary>
-
-<br>
-
-Ayurvedic constitution prediction, extended to skin disease detection with a camera.
-
-🔗 [Repo](REPO_LINK)
+| Project | What I built | Stack |
+|:--|:--|:--|
+| **[Edge AI PPE Detection](REPO_LINK)** | Pruned a MobileNet by ~69% (8.63 MB → 2.77 MB). Accuracy went up, and speed on a Raspberry Pi stayed the same. | `PyTorch` `MobileNet` `Raspberry Pi` |
+| **[Explainable Pneumonia Detection](REPO_LINK)** | ResNet-18 on chest X-rays, with Grad-CAM and LIME to show where the model looks. | `PyTorch` `Grad-CAM` `LIME` |
+| **[SignEase](REPO_LINK)** | Real-time sign language translation for inclusive meetings. Published in IJRAR (2024). | `CNN-LSTM` `MediaPipe` |
+| **[β-VAE on CelebA](REPO_LINK)** | Face generation model that separates traits like head pose into adjustable controls. | `PyTorch` `VAE` |
+| **[Prakrithi-Identifier](REPO_LINK)** | Ayurvedic constitution prediction, extended to skin disease detection with a camera. | `scikit-learn` `Computer Vision` |
 
 </details>
 
 ---
 
-## 🛠️ Tech stack
+## 🧰 Toolbox
 
 <div align="center">
 
@@ -190,48 +180,52 @@ Ayurvedic constitution prediction, extended to skin disease detection with a cam
 
 </div>
 
-<details>
-<summary><b>See the full toolbox</b></summary>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br>
+**🤖 Agents and LLMs**<br>
+LangChain · LangGraph · GraphRAG · Qwen · Llama · tool and skill interfaces
 
-| Area | Tools |
-|:--|:--|
-| **Agents and LLMs** | LangChain, LangGraph, GraphRAG, Qwen, Llama, tool and skill interfaces |
-| **Retrieval** | FAISS, vector databases, semantic search, multi-hop reasoning |
-| **Graphs** | Neo4j, Cypher, graph projections, TransE, ComplEx, R-GCN |
-| **Backend and data** | FastAPI, REST APIs, SQL, Oracle, Palantir Foundry, Docker, CI/CD |
-| **Dashboards** | Power BI |
+**🔎 Retrieval**<br>
+FAISS · vector databases · semantic search · multi-hop reasoning
 
-</details>
+**🕸️ Graphs**<br>
+Neo4j · Cypher · graph projections · TransE · ComplEx · R-GCN
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Backend and data**<br>
+FastAPI · REST APIs · SQL · Oracle · Palantir Foundry · Docker · CI/CD
+
+**📊 Dashboards**<br>
+Power BI
+
+**🌍 Languages**<br>
+English (C1) · German (B1) · Malayalam · Tamil · Hindi
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Recognition
-
-<details>
-<summary><b>Awards and publications</b></summary>
-
-<br>
 
 - 🥇 Finalist, **Medha V** Global AI Data Viz Hackathon (BMW Techworks India)
 - 📄 **IJRAR 2024**, two papers: Ayurveda + AI survey (IIT Palakkad innovation finalist) and SignEase
 - 🥈 **2nd Best Paper**, National Conference on Emerging Frontiers of Medicine and Technology
 - 🎓 **Best Outgoing Student Award**, Holy Grace Academy of Engineering (2024)
 
-</details>
-
 ---
 
-## 📈 GitHub
+## 📈 GitHub activity
 
 <div align="center">
 
 [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazbiju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/riyazbiju)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazbiju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/riyazbiju?tab=repositories)
-
-[![Followers](https://img.shields.io/github/followers/riyazbiju?style=for-the-badge&logo=github&label=Followers&color=0B3D91)](https://github.com/riyazbiju?tab=followers)
-[![Repositories](https://img.shields.io/badge/All%20repositories-view-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyazbiju?tab=repositories)
 
 </div>
 
@@ -239,35 +233,35 @@ Ayurvedic constitution prediction, extended to skin disease detection with a cam
 
 ## 💬 Let's talk
 
-<details open>
-<summary><b>Ask me about</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**Ask me about**<br>
+• Multi-agent systems and GraphRAG<br>
+• Running LLMs locally<br>
+• Getting AI into real workflows
 
-- Multi-agent systems and GraphRAG
-- Running LLMs locally
-- Getting AI into real workflows
+</td>
+<td width="50%" valign="top">
 
-**Happy to collaborate on:** agent tooling, knowledge graphs, and AI for healthcare and accessibility.
+**Happy to collaborate on**<br>
+• Agent tooling<br>
+• Knowledge graphs<br>
+• AI for healthcare and accessibility
 
-</details>
-
-<details>
-<summary><b>🌍 Languages</b></summary>
-
-<br>
-
-English (C1) · German (B1) · Malayalam · Tamil · Hindi
-
-</details>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/Say%20hello-bijuriya18%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com?subject=Hello%20Riya)
+[![Say hello](https://img.shields.io/badge/Say%20hello-bijuriya18%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com?subject=Hello%20Riya)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-biju)
-
-</div>
+[![Open the portfolio](https://img.shields.io/badge/See%20more-Portfolio-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riyazbiju.github.io)
 
 > 🤖🤝👤 Still deciding whether to trust AI or humans, so I build AI that shows its work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0B3D91&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:0B3D91&height=70&section=footer" width="100%" alt=""/>
+
+</div>
