@@ -3,9 +3,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D91,100:1E90FF&height=140&section=header&text=Riya%20Biju&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Agentic%20AI%20%26%20ML%20Engineer%20%C2%B7%20Munich&descSize=17&descAlignY=72" width="100%" alt="Riya Biju banner"/>
+<img src="assets/banner.svg" width="100%" alt="Riya Biju, Agentic AI and ML Engineer, Munich"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=1E90FF&center=true&vCenter=true&width=640&lines=I+build+AI+agents+people+actually+use;Multi-agent+GraphRAG+on+real+enterprise+data;Local+LLMs+that+answer+in+under+a+second;Turning+messy+processes+into+working+tools)](https://riyazbiju.github.io)
 
 ![Status](https://img.shields.io/badge/Available-Dec%202026-2EA44F?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open%20to-Full--time%20AI%20Engineer%20roles-1E90FF?style=flat-square)
@@ -14,6 +13,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-riyazbiju.github.io-0B3D91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riyazbiju.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--biju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-biju)
 [![Email](https://img.shields.io/badge/Email-bijuriya18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijuriya18@gmail.com)
+
+</div>
+
+---
+
+## ▶️ Watch my 24-second intro
+
+<div align="center">
+
+<a href="assets/intro.mp4"><img src="assets/intro.gif" width="720" alt="Animated intro: who I am, what I build, results, flagship projects CAIRA and SKYBRIEF"/></a>
+
+<sub>Click the video to open the full-quality MP4.</sub>
 
 </div>
 
@@ -262,6 +273,5 @@ English (C1) · German (B1) · Malayalam · Tamil · Hindi
 
 > 🤖🤝👤 Still deciding whether to trust AI or humans, so I build AI that shows its work.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:0B3D91&height=70&section=footer" width="100%" alt=""/>
 
 </div>
